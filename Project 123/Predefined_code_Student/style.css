@@ -1,0 +1,17 @@
+.copy_right_footer{
+	bottom: 0;
+    padding-bottom: 0;
+	margin-top: auto;
+	background-color: navajowhite;
+}
+
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+.h3{
+	text-align: center;
+
+}
